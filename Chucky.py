@@ -12,37 +12,37 @@ import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,
 
 cl = LINETCR.LINE()
 #cl.login(qr=True)
-cl.login(token='TOKEN_KAMU_DISINI_BEIB')
+cl.login(token='line://au/q/hhptpGeSCxJ3ocWiDsogLdgnBMwsS7r3')
 cl.loginResult()
 print "Cl-Login Success\n"
 
 ki = LINETCR.LINE()
 #ki.login(qr=True)
-ki.login(token='TOKEN_KAMU_DISINI_BEIB')
+ki.login(token='line://au/q/hhptpGeSCxJ3ocWiDsogLdgnBMwsS7r3')
 ki.loginResult()
 print "Ki-Login Success\n"
 
 kk = LINETCR.LINE()
 #kk.login(qr=True)
-kk.login(token='TOKEN_KAMU_DISINI_BEIB')
+kk.login(token='line://au/q/hhptpGeSCxJ3ocWiDsogLdgnBMwsS7r3')
 kk.loginResult()
 print "Kk-Login Success\n"
 
 kc = LINETCR.LINE()
 #kc.login(qr=True)
-kc.login(token='TOKEN_KAMU_DISINI_BEIB')
+kc.login(token='line://au/q/hhptpGeSCxJ3ocWiDsogLdgnBMwsS7r3')
 kc.loginResult()
 print "Kc-Login Success\n"
 
 kr = LINETCR.LINE()
 #kr.login(qr=True)
-kr.login(token='TOKEN_KAMU_DISINI_BEIB')
+kr.login(token='line://au/q/hhptpGeSCxJ3ocWiDsogLdgnBMwsS7r3')
 kr.loginResult()
 print "Kr-Login Success\n"
 
 km = LINETCR.LINE()
 #km.login(qr=True)
-km.login(token='TOKEN_KAMU_DISINI_BEIB')
+km.login(token='line://au/q/hhptpGeSCxJ3ocWiDsogLdgnBMwsS7r3')
 km.loginResult()
 print "Km-Login Success\n\n=====[Sukses All Login]====="
 
